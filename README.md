@@ -17,5 +17,5 @@ Welcome to my portfolio! I’m a Front-End Developer, UI/UX Designer, Graphic De
 ## 📫 Contact Me
 
 * Email: vasquez.rhealyn.dll@example.com
-* GitHub: https://github.com/raiahyxs(#)
-* Portfolio: https://rhealyn-portfolio.netlify.app(#)
+* GitHub: https://github.com/raiahyxs
+* Portfolio: https://rhealyn-portfolio.netlify.app
