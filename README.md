@@ -10,8 +10,7 @@ Welcome to my portfolio! I’m a Front-End Developer, UI/UX Designer, Graphic De
 * **Programming:**  JavaScript and Python
 * **Frameworks & Libraries:**  React, Node.js, Pandas
 * **Tools:**  Git, VS Code, Figma
-* **Other:**  SQL, REST APIs, Agile workflows
-  
+
 ---
 
 ## 📫 Contact Me
